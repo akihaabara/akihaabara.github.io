@@ -2,7 +2,7 @@
 
   <div class="anime-section">
     <h2>One Piece</h2>
-    <img src=dan-da-dan-Transforming-Visual-1-scaled.webp> 
+    <img src=one-piece-key-art-for-the-upcoming-arc-v0-8bpzk90ddl2c1.webp> 
     <iframe width="560" height="315" src="C:\Users\dekyd\Desktop\ANIHUB!\One Piece - Opening 26 _ Assu! - AnimeSelect (1080p, h264).mp4" frameborder="0" allow="accelerometer; autoplay muted clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>Monkey D. Luffy sets sail on a grand adventure to become the King of the Pirates and find the legendary treasure left behind by the late Gol D. Roger. Along the way, he gathers a crew of diverse and powerful individuals, each with their own dreams and ambitions.</p>
     <a href="https://www.crunchyroll.com/one-piece" target="_blank">Watch One Piece on Crunchyroll</a>
@@ -26,7 +26,7 @@
 
   <div class="anime-section">
     <h2>DANDADAN</h2>
-    <img src="C:\Users\dekyd\Desktop\ANIHUB!\dan-da-dan-Transforming-Visual-1-scaled.webp" alt="DANDADAN Key Art">
+    <img src=dan-da-dan-Transforming-Visual-1-scaled.webp alt="DANDADAN Key Art">
     <iframe width="560" height="315" src="C:\Users\dekyd\Desktop\ANIHUB!\DAN DA DAN Opening _ Otonoke by Creepy Nuts - Crunchyroll (1080p, h264).mp4" frameborder="0" allow="accelerometer; autoplay muted clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>This quirky and action-packed series follows the adventures of Momo Ayase, who believes in ghosts but not aliens, and Okarun, who believes in aliens but not ghosts. Together, they investigate supernatural phenomena and encounter a variety of bizarre creatures and situations.</p>
     <a href="https://www.crunchyroll.com/dan-da-dan" target="_blank">Watch DANDADAN on Crunchyroll</a>
