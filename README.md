@@ -10,7 +10,7 @@
 
   <div class="anime-section">
     <h2>My Hero Academia</h2>
-    <img src="C:\Users\dekyd\Desktop\ANIHUB!\my-hero-academia-season-7-key-visual-v0-h_11UwfFpZN5y-E5dgFYdEbbat8p660xdmNHJpRHomg.webp" alt="My Hero Academia Key Art">
+    <img src=my-hero-academia-season-7-key-visual-v0-h_11UwfFpZN5y-E5dgFYdEbbat8p660xdmNHJpRHomg.webp alt="My Hero Academia Key Art">
     <p>In a world where most people have superpowers called "Quirks," Izuku Midoriya dreams of becoming a hero despite being born without one. His fate changes after a chance encounter with the world's greatest hero, All Might, who chooses Izuku as his successor.</p>
     <a href="https://www.crunchyroll.com/my-hero-academia" target="_blank">Watch My Hero Academia on Crunchyroll</a>
   </div>
