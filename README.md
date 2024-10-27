@@ -17,7 +17,7 @@
 
   <div class="anime-section">
     <h2>Jujutsu Kaisen</h2>
-    <img src=Ao no sumika.webp>
+    <img src=Ao no sumika.webp alt="Jujutsu Kaisen Key Art">
     <p>Yuji Itadori, a high school student with incredible physical abilities, becomes involved in the world of Jujutsu Sorcerers after swallowing a cursed object - The King of Curses, Ryomen Sukuna. He joins Tokyo Jujutsu High, a school dedicated to training Jujutsu Sorcerers, and embarks on a dangerous journey to exorcise curses.</p>
     <a href="https://www.crunchyroll.com/jujutsu-kaisen" target="_blank">Watch Jujutsu Kaisen on Crunchyroll</a>
   </div>
