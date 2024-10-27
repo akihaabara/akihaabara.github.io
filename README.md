@@ -1,24 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-  <title>Anime Recommendations</title>
-  <style>
-    body {
-      font-family: arial;
-    }
-    .anime-section {
-      margin-bottom: 30px;
-    }
-    img {
-      max-width: 300px;
-      float: left;
-      margin-right: 20px;
-    }
-  </style>
-</head>
-<body>
-
-  <h1>Anime Recommendations</h1>
+ <h1>Anime Recommendations</h1>
 
   <div class="anime-section">
     <h2>One Piece</h2>
