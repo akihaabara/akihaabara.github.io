@@ -22,7 +22,7 @@
 
   <div class="anime-section">
     <h2>One Piece</h2>
-    <img src="C:\Users\dekyd\Desktop\ANIHUB!\one-piece-key-art-for-the-upcoming-arc-v0-8bpzk90ddl2c1.webp"> 
+    <img src=dan-da-dan-Transforming-Visual-1-scaled.webp> 
     <iframe width="560" height="315" src="C:\Users\dekyd\Desktop\ANIHUB!\One Piece - Opening 26 _ Assu! - AnimeSelect (1080p, h264).mp4" frameborder="0" allow="accelerometer; autoplay muted clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     <p>Monkey D. Luffy sets sail on a grand adventure to become the King of the Pirates and find the legendary treasure left behind by the late Gol D. Roger. Along the way, he gathers a crew of diverse and powerful individuals, each with their own dreams and ambitions.</p>
     <a href="https://www.crunchyroll.com/one-piece" target="_blank">Watch One Piece on Crunchyroll</a>
